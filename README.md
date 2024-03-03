@@ -1,9 +1,6 @@
 # Telephone-Class
 This is a telephone package that demonstrates the use of the Constructor, Singleton, Factory, Observer, and Prototype design patterns in JavaScript.
 
-# Task
-![Week 8 Task](https://github.com/Adaobi-Chuks/Telephone-Class/blob/main/img/Task.png)
-
 ## Constructor Pattern
 The Constructor pattern is used to create a single instance of the Telephone class, which stores phone contacts and observers.
 
